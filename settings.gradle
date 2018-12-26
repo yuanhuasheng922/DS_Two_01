@@ -1,0 +1,1 @@
+include ':app', ':fanshe', ':fanshe_02', ':send_eventbus'
